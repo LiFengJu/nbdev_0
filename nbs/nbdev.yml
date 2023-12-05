@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_0"
+  site-url: "https://LiFengJu.github.io/nbdev_0"
+  description: "this is a demo"
+  repo-branch: main
+  repo-url: "https://github.com/LiFengJu/nbdev_0"
